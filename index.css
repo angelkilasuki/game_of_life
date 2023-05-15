@@ -1,0 +1,47 @@
+body {
+    background:linear-gradient(45deg,rgb(255,125,167),rgb(255,211,222) )
+}
+div {
+    font-family:Cairo Play;
+}
+#title {
+    font-size: 80px;
+    text-align: center;
+    color:rgb(245, 167, 197);
+    background-color:black;
+    padding-bottom:2vw;
+    font-family:Cairo Play
+}
+
+#reset-game {
+cursor:pointer;
+}
+
+#stop {
+cursor:pointer;
+
+}
+
+#rules {
+    background-color: rgb(183, 70, 117);
+    color:white;
+    padding:5px;
+
+}
+
+#colormode {
+        cursor:pointer;
+
+}
+#canvas {
+    width:100%
+}
+
+button {
+    font-family:Cairo Play;
+    background:black;
+    font:bold;
+    color:rgb(238,146,184);
+    margin-right:10px;
+    border-color: transparent;
+}
